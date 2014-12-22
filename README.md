@@ -36,9 +36,14 @@ This keyboarded and encoded edition of the
 
 #####Body#####
 
-1. The ſentence of Pontius Pilate, Iudge of the Iewes vnder the Emperour.
+1. ❧The maner and order of proceeding againſt Chriſt, by the Iudges
+which held a counſell at Ieruſalem, at the inſtance of Caiphas, which was High Prieſt that ſame
+yeere: And the ſentence of death pronounced agaynſt him by Pilate, then Gouerner of the Iewes,
+vnder Tiberius the Romaine Emperor.
 
-1. To the Chriſtian Reader.
+    _ The ſentence of Pontius Pilate, Iudge of the Iewes vnder the Emperour.
+
+    _ To the Chriſtian Reader.
 
 **Types of content**
 
